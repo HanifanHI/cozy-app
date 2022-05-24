@@ -1,3 +1,3 @@
 # cozy_app
 
-Aplikasi pencarian kost menggunakan state managament provider
+Aplikasi pencarian kost menggunakan state management provider
